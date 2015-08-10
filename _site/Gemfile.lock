@@ -131,3 +131,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  json

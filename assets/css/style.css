@@ -222,3 +222,47 @@ ul.dropdown-menu>li>a>i.fa {
     font-size: 24px;
     text-decoration: none;
 }
+
+/* Resume Page */
+.resume-left{
+  width: 600px;
+  display: inline-block;
+  margin-left:20px;
+}
+.resume-left div {
+  margin-bottom: 75px;
+}
+
+.resume-right{
+  width: 300px;
+  margin-left:75px;
+  display: inline-block;
+}
+
+.resume-right ul{
+  list-style: none;
+  text-align: left;
+  padding-left:0 ;
+}
+
+.resume-title, .school{
+  color: #EF5D60;
+  font-size: 24px;
+  margin-bottom:0;
+}
+
+.resume-sub, .degree{
+  color:#E09F7D;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom:0;
+}
+
+
+
+
+
+
+
+
+
