@@ -224,8 +224,12 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 /* Resume Page */
+
+.resume-container {
+  width:1370px;
+}
 .resume-left{
-  width: 600px;
+  width: 40%;
   display: inline-block;
   margin-left:20px;
 }
@@ -234,7 +238,7 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 .resume-right{
-  width: 300px;
+  width: 40%;
   margin-left:75px;
   display: inline-block;
 }
@@ -258,8 +262,35 @@ ul.dropdown-menu>li>a>i.fa {
   margin-bottom:0;
 }
 
+/* Make the resume page responsive */
+@media screen and (max-width:1370px) {
+  .resume-container {
+    width:600px;
+  }
+  .resume-left{
+  width:90%;
+  }
+  .resume-right {
+    margin-left:20px;
+    width:90%
+  }
+  .skill-title {
+    margin-top: 75px;
+  }*/
 
+}
 
+@media screen and (max-width:635px) {
+  .resume-container {
+  width: 100%;
+  }
+  .resume-right {
+      width: 100%;
+    }
+      .skill-title {
+      margin-top: 75px;
+    }
+}
 
 
 
