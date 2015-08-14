@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to secure funding for your computing outreach event
-categories: [general, education, outreach, programming, funding]
+categories: [general]
 tags: [outreach, education]
 description: and free educational resources.
 ---
