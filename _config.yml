@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: JUST BRITNI
+      title: it's britni
 
 description: Personal website built on the dbyll theme.
 author: 
