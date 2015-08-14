@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sometimes I power through 2 weeks worth of Ruby tutorials in one night...
-categories: [general, ruby, html, css]
+categories: [general, ruby]
 tags: [web developer, rails, ruby]
 description: ...the same night I built my website.
 ---
