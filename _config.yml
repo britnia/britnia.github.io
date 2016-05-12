@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: it's britni
+      title: Britni Totally Rocks!
 
 description: Personal website built on the dbyll theme.
 author: 
@@ -24,7 +24,7 @@ author:
   pinterest: 
   resume: britnia
   linkedin: britnia
-  bio: Web Developer || Graduate Student
+  bio: Software Engineer
   email_md5: 918e45df7eb4a0eea133c7e07204f540
 
 rss_path: feed.xml
