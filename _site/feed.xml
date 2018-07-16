@@ -7,6 +7,69 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Imposter Syndrome and Other Conference Hangover Ramblings</title>
+				<description>&lt;p&gt;I go to a lot of conferences. Partially to learn new things, partially to see old and make new friends, but mostly to re-up my motivation.&lt;/p&gt;
+
+&lt;p&gt;In the daily grind of being a professional software developer it’s easy to get caught up in the minutia and struggles of life and forget why you got into programming to begin with.Conferences always remind me that I got into this to solve problems, help people and have a voice. Having just returned from RailsConf 2017 in beautiful Phoenix, AZ I am again, excited about programming and excited to achieve my goals.&lt;/p&gt;
+
+&lt;p&gt;But I always am after conferences. So, in an effort to not let this post conference high turn into another post conference hangover, I’m resurrecting this blog, and thereby, my resolve.&lt;/p&gt;
+
+&lt;h2 id=&quot;solving-problems&quot;&gt;SOLVING PROBLEMS&lt;/h2&gt;
+
+&lt;p&gt;The talks at RailsConf cover a wide variety of topics but they all hold to one common theme: problem solving. Whether solving the problem of subpar performance, broken hiring practices or understanding how much your cat poops (thanks for that one, Aaron) developers never ceases to amaze me with their curiosity innovation and sense of humor.&lt;/p&gt;
+
+&lt;p&gt;At work I get to solve problems for customers and it’s a real joy when I can show them how to solve problems for themselves. But I want to get better at identifying my own problems (like the fact that I am pretty subpar at databases) and improving them. I also want to get better at following up on opportunities for improvement I see around me instead of just saying “wouldn’t it be nice if” and then continuing on with my life. So to that end I am also going to make this the year that I finally get involved in open source software. Which brings me to my next point…&lt;/p&gt;
+
+&lt;h2 id=&quot;helping-people&quot;&gt;HELPING PEOPLE&lt;/h2&gt;
+
+&lt;p&gt;Some people just don’t have time to contribute to open source. They’re up to their eyeballs in work, learning, and family obligations. I’m at a season in my life where, realistically, I could have a fair enough amount of time to help out in the community if I just shook off the fear I have of seeming stupid. I’ve been a professional software developer for going on 2 years and while I know my limitations I know I am smart and capable. That doesn’t stop me from having imposter syndrome or being afraid to look foolish when I ask questions. Multiply this by the potential of EVERYONE on the internet potentially seeing my questions or posts and it’s mildly horrifying. What if I misunderstand something and my question is just completely ridiculous?&lt;/p&gt;
+
+&lt;p&gt;The only real way I’ve found to overcome this fear is to remind myself that:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Far more mediocre people than me — probably mostly white guys, sorry, not sorry — fearlessly ask very stupid questions all the time without giving them a second thought and they seem to survive;&lt;/li&gt;
+  &lt;li&gt;There is nothing new under the sun so someone else out there somewhere interpreted the information the way I did or had the same question and I am helping them by saying something;&lt;/li&gt;
+  &lt;li&gt;Most developers aren’t even trying or interested in contributing so I really don’t care what they have to say.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve, of course, not completely abandoned my dream of helping/giving back just because I haven’t yet written the greatest open source code ever. I’ve been on the Rails Girls Atlanta board for over a year now and put on 2 amazing workshops! Being a part of RGATL was very important to me because that was where I really discovered web development, the ruby community and the amazing community of women developers here in Atlanta. To them I am eternally grateful. This journey has changed my life!&lt;/p&gt;
+
+&lt;p&gt;Other ways I have given back, and I encourage you to as well, are volunteering at conferences, participating in guide/mentor programs, coaching workshops and getting involved in local student groups. I’m also loaning my technical skills to my church. Find something you care about and ask how you can get involved. I promise you’ll love it and you’ll feel more involved!&lt;/p&gt;
+
+&lt;h2 id=&quot;using-my-voice&quot;&gt;USING MY VOICE&lt;/h2&gt;
+
+&lt;p&gt;As you can see, my blog wasn’t update for almost 2 years before this post. There are a lot of reasons for that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not wanting to offend my coworkers with my critiques of various processes/coding styles&lt;/li&gt;
+  &lt;li&gt;Overly critical of my own post ideas&lt;/li&gt;
+  &lt;li&gt;Not making it a priority&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last one is really the biggie. If you don’t make something a priority you won’t do it. And if you do, it won’t be very good. I come from a background in journalism and I love to write. I love to make videos. I love to create. I also have a lot of opinions. This should be a great setup for a great blog/vlog. But I just haven’r prioritized writing. As such I feel that I have lost my voice. The more you put yourself out there; the more you speak up, the more comfortable you get doing so. It’s scary to put your inner voice on the internet for all to see. But the more you do it the more normal it feels. Or at least, so I tell myself.&lt;/p&gt;
+
+&lt;p&gt;I spoke at a conference last year and it was terrifying. But it was worth it. So I’m going to write more. I’m going to speak more.&lt;/p&gt;
+
+&lt;p&gt;Get ready for lots more of me all over the internet!&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-the-tldr-on-this-post&quot;&gt;What’s the TL;DR on this post?&lt;/h2&gt;
+
+&lt;p&gt;In my first 2 years as a developer I’ve gotten complacent in the reasons I got into this industry.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I don’t wanna be complacent anymore.&lt;/li&gt;
+  &lt;li&gt;I’m gonna start blogging again!&lt;/li&gt;
+  &lt;li&gt;I’ll be speaking at more conferences!&lt;/li&gt;
+  &lt;li&gt;I’m also going to become a super official open source contributor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If none of those things happen by next RailsConf, you have permission to call me out on it when you see me at the conference.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 30 Apr 2017 00:00:00 -0400</pubDate>
+				<link>/general/2017/04/30/conference-hangover.html</link>
+				<guid isPermaLink="true">/general/2017/04/30/conference-hangover.html</guid>
+			</item>
+		
+			<item>
 				<title>If you want something sometimes all you need to do is ask</title>
 				<description>&lt;p&gt;Today I randomly decided that I wanted to get all of my STARS Computing Corps students to a software conference. I wanted them to see that there is an entire awesome world of modern technology outside of our tiny corner of Georgia.&lt;/p&gt;
 
