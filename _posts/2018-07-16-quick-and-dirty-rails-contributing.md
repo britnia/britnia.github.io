@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pro-tips on Contributing to Ruby on Rails from an Absolute Newb
-categories: [general]
-tags: [conferences, goals]
+categories: [technical]
+tags: [code, open source, rails]
 description: I just startd contributing to rails. Here's a few tricks I've picked up that can help you get started off on a better foot than I started off on.
 ---
 Since I’ve been Funemployed™ for a while, I’ve decided in order to keep from getting rusty I’d start helping out the Ruby on Rails community by triaging some issues and squashing some bugs. Their [guides](http://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html#running-tests) have good step by step by step instructions on how to get the environment set up locally so you can start knocking things out but in the last few days I’ve discovered a few hacks to make things run a little more smoothly.
